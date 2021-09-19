@@ -6,7 +6,7 @@
 
 [node name="Background" type="ParallaxBackground"]
 script = ExtResource( 3 )
-desert_speed = 15.0
+desert_speed = 35.0
 cloud_speed = 30.0
 
 [node name="Desert" type="ParallaxLayer" parent="."]
